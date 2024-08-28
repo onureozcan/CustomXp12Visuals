@@ -10,7 +10,7 @@ My custom script to increase visuals on XP 12
 
  You need fly with lua. Simply drop this script to the Scripts folder
 
- Note: tested only by myself on 12.09. I cannot guarantee it will work flawlessly. There may be bugs, artifacts, fps drops. Use at your own responsibility
+ Note: tested only by myself on 12.1.2 I cannot guarantee it will work flawlessly. There may be bugs, artifacts, fps drops. Use at your own responsibility
 
  Better here is subjective. Check out the screenshots and see for yourself!
 
